@@ -1,6 +1,8 @@
 const {Sequelize, DataTypes} = require('sequelize')
 
-const sequelize = new Sequelize('postgresql://postgres:Tiwalade2002%40@localhost:5432/wanderwise', {dialect:'postgres'})
+const DATABASE_URL = process.env.DATABASE_URL
+
+const sequelize = new Sequelize(DATABASE_URL, {dialect:'postgres'})
 
 sequelize.authenticate().then(() => {
     console.log('Database connected to discover')
