@@ -21,4 +21,4 @@ WanderWise is a project designed to provide users with comprehensive information
 .
 
 ## Support
-For any questions, issues, or feedback regarding WanderWise, please feel free to [contact us](mailto:oluwafemisire.ojuawo@Kibo.school). We're here to help!
+For any questions, issues, or feedback regarding WanderWise, please feel free to [contact me](mailto:oluwafemisire.ojuawo@Kibo.school). I'd love to hear what you think!
