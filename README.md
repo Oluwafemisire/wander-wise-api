@@ -1,4 +1,4 @@
-# wanderWise v1.0
+# WanderWise v1.0
 
 
 ![Screenshot 2024-02-15 152534](https://github.com/Oluwafemisire/wander-wise-api/assets/66549203/8b8718e2-2027-40ea-9ad7-543bf47a81bf)
