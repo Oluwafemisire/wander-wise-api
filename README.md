@@ -3,7 +3,7 @@
 
 ![Screenshot 2024-02-15 152534](https://github.com/Oluwafemisire/wander-wise-api/assets/66549203/8b8718e2-2027-40ea-9ad7-543bf47a81bf)
 
-A Web App to help you with your travel needs!
+A Web App to help you with your travel needs! Deployed right here [WanderWise](https://week-9-final-project-oluwafemisire.onrender.com/)
 
 ## Overview
 WanderWise is a project designed to provide users with comprehensive information about a particular city, including weather forecasts, hotel accommodations, and recreational activities. With WanderWise, users can plan their trips more efficiently and make preliminary decisions about their travel destinations.
