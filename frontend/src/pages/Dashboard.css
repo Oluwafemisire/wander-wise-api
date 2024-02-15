@@ -1,0 +1,11 @@
+.dashboard{
+    margin:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.navbar{
+    position:fixed;
+    background-color: black;
+}
